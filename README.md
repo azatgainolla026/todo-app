@@ -10,7 +10,7 @@ Tasks are saved in a local `todos.json` file automatically.
 ### Run
 
 ```bash
-go run main.go
+go run todo.go
 ```
 ## Features
 
